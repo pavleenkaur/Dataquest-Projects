@@ -3,7 +3,7 @@ Dataquest - An online Data Science Learning Platform
 
 This repo contains all the projects that were a part of the Dataquest course.
 
-For more datasets, refer to the Github repository of <a href="https://github.com/fivethirtyeight/data "/>FiveThirtyEight :
+For more datasets, refer to the Github repository of <a href="https://github.com/fivethirtyeight/data "/>FiveThirtyEight :</a>
 
 
 Datasets for my programs : 
